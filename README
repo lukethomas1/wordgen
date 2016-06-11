@@ -1,1 +1,6 @@
+This program generate all strings of the lengths specified. Therefore it generates the amount of strings equivalent to 26^x where x is
+the length of the strings specified. Can generate strings of more than one length at a single time.
+
+WARNING: Entering a large length (>10) will generate a file of enormous size.
+
 The reason I made this is to facilitate other projects in the future. Pretty simple, but it gets the job done.
