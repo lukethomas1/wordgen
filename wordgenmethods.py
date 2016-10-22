@@ -32,7 +32,7 @@ def write_strings(length, txtFile):
         handle_overflow(word, length);
 
         # If the last character got bumped past 'z', go to next length
-        if(word[0] == chr(ord('z') + 1)):
+        if(word[0] == chr(ord('z'))):
             break
 
 
